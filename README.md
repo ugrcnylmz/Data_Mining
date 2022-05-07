@@ -1,2 +1,3 @@
 # Data_Mining
-YTÜ_lesson
+
+BLM4800 Veri Madenciliği
